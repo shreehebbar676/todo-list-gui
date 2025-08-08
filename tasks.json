@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "title": "Medicine",
+        "due": "05-04-2024",
+        "priority": "high",
+        "done": true
+    },
+    {
+        "id": 3,
+        "title": "Exam1",
+        "due": "2025-06-18",
+        "priority": "medium",
+        "done": true
+    },
+    {
+        "id": 4,
+        "title": "WriteNotes",
+        "due": "2025-08-17",
+        "priority": "medium",
+        "done": false
+    },
+    {
+        "id": 4,
+        "title": "Submission of Project",
+        "due": "2025-07-30",
+        "priority": "High",
+        "done": false
+    }
+]
