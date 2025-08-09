@@ -12,9 +12,9 @@ A simple yet powerful desktop To-Do List application built using **Python** and 
 
 ## Screenshots
 
-| Login Page | Main App (Light Mode) | Dark Mode |
-|------------|------------------------|-----------|
-| ![Login](login.png) | ![Light](light.png) | ![Dark](dark.png) |
+| Login Page | Main App (Light Mode) | Dark Mode | Remainder popup|
+|------------|------------------------|-----------|---------------|
+| ![Login](login.png) | ![Light](light_mode.png) | ![Dark](dark_mode.png) |![Remainder](remainder_popup.png) |
 
 ---
 
